@@ -1,12 +1,19 @@
 body {
     text-align: center;
     color:hsl(180, 90%, 41%);
-    font-family: 'Courier New', Courier, monospace;
+    font-family: monospace;
     padding: 0;
     margin: 0;
 }
 
-
+#cabecera{
+    background: grey;
+    box-shadow: -5px,-5px, 23, 0 rgb(0, 0, 0, 0,5);
+    color: aqua;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
 
 #container{
     width: 70%;
